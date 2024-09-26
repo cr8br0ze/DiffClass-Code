@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href='https://arxiv.org/abs/2403.05016'>
-    <img src='https://img.shields.io/badge/Arxiv-2312.06553-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
+    <img src='https://img.shields.io/badge/Arxiv-2403.05016-A42C25?style=flat&logo=arXiv&logoColor=A42C25'>
   </a>
   <a href='https://arxiv.org/abs/2403.05016.pdf'>
     <img src='https://img.shields.io/badge/Paper-PDF-yellow?style=flat&logo=arXiv&logoColor=yellow'>
